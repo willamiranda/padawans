@@ -14,5 +14,5 @@
 [issues-url]: https://github.com/willamiranda/padawans/issues
 
 
-## Projeto realizado para o bootcamp Padawans - Framework
-Aplicação que busca auxiliar na resolução de um dos Objetivos de Desenvolvimento Sustentável da ONU, como parte do Bootcamp Padawans da Framework. O objetivo a ser atingido: Paz, Justiça e Instituições Eficazes.
+## Projeto realizado para o bootcamp Padawans - Framework 💜
+Aplicação que busca auxiliar na resolução de um dos Objetivos de Desenvolvimento Sustentável da ONU, como parte do Bootcamp Padawans da Framework. O objetivo a ser atingido: Paz, Justiça e Instituições Eficazes. 
