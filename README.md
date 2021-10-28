@@ -16,6 +16,7 @@
 
 ## Projeto realizado para o bootcamp Padawans - Framework 💜
 Aplicação que busca auxiliar na resolução de um dos Objetivos de Desenvolvimento Sustentável da ONU, como parte do Bootcamp Padawans da Framework. O objetivo a ser atingido: Paz, Justiça e Instituições Eficazes.
+Com essa aplicação vamos conectar ONGS à pessoas que querem ajudar a sociedade. 
 
 ## Tecnologias utilizadas 💻
 * Visualg - para a criação do algoritmo 👨‍💻
