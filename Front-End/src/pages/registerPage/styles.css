@@ -1,0 +1,134 @@
+*.homePage {
+  position: absolute;
+  width: 1028px;
+  height: 695px;
+}
+
+.img {
+  position: absolute;
+  width: 700px;
+  height: 820px;
+  left: 2px;
+  top: 95px;
+}
+
+.welcome {
+  position: relative;
+  width: 650px;
+  height: 612px;
+  left: 700px;
+  right: 100px;
+  top: 56px;
+  font-weight: bold;
+  font-size: 47px;
+  color: #2964cb;
+}
+
+.descriptionHome {
+  position: absolute;
+  width: 600px;
+  left: 700px;
+  top: 220px;
+  font-weight: normal;
+  font-size: 20px;
+  color: #36496b;
+}
+
+.social-networks {
+  position: absolute;
+  width: 135px;
+  height: 32px;
+  left: 700px;
+  top: 290px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  color: #36496b;
+}
+
+.networking {
+  position: absolute;
+  width: 570px;
+  height: 70px;
+  left: 690px;
+  top: 346px;
+}
+
+
+.register {
+  position: absolute;
+  width: 446px;
+  height: 249px;
+  left: 717px;
+  top: 400px;
+}
+
+.formRegister {
+  display: inline-block;
+  background: #ffffff;
+  border: 1px solid #36496b;
+  border-radius: 5px;
+  padding: 0rem 1rem 0rem 1rem;
+  margin: 2rem 0 1rem 0;
+}
+
+.right-label {
+  float: right;
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid #ccd6da;
+  box-sizing: border-box;
+  width: 480px;
+  height: 35px;
+  left: 528px;
+  top: 515.08px;
+}
+
+.buttonHome {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  width: 420px;
+  height: 35px;
+  left: 50px;
+  top: 430px;
+  background: #2964cb;
+  border-radius: 5px;
+}
+
+
+.buttonHome:hover {
+  background: #07398f;
+  transition: all 0.5s;
+}
+.buttonHome:link{
+  text-decoration: none;
+}
+
+
+#checkbox {
+  width: 0.8rem;
+}
+
+.form span {
+  font-size: 0.8rem;
+}
+
+#reset_pass_lbl {
+  float: left;
+}
+
+.singIn {
+  position: absolute;
+  width: 455px;
+  left: 861px;
+  top: 860px;
+  font-size: 15px;
+}
