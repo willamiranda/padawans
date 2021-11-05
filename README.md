@@ -21,3 +21,10 @@ Com essa aplicação vamos conectar ONGS à pessoas que querem ajudar a sociedad
 ## Tecnologias utilizadas 💻
 * Visualg - para a criação do algoritmo 👨‍💻
 * Trello - para a organização e planejamento do sprint 📅
+* Figma - para a prototipação das telas do projeto
+* Visual Studio (C#) - para a criação da API
+* PostgreSQL - para a criação dos scripts de Banco de Dados
+* MySQL Workbench - para a criação do modelo relacional do Banco de Dados
+
+## Modelo relacional do Banco de Dados
+![modelo-relacional](https://user-images.githubusercontent.com/83177100/140539223-e6b12a0b-5b56-43ca-bbdb-2ad77be04e62.png)
